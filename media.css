@@ -1,0 +1,124 @@
+@media screen and (max-width: 1199px) {
+	h1 {
+		margin-top: 20px;
+	}
+	.name{
+	padding: 200px 0 30px 0;
+	text-align: center;
+	width: auto;
+	}
+	.second{
+	margin-top: 90px;
+	padding: 0;
+}
+}
+@media screen and (max-width: 991px){
+	.logo{
+		display: block;
+		margin: 0 auto;
+	}
+	.phone{
+		display: flex;
+		justify-content: center;
+	}
+	.act{
+		margin-top: 10px;
+	}
+}
+@media screen and (max-width: 767px){
+	.input{
+		margin-top: 10px;
+		padding: 15px 18px;
+		margin-right: 0px;
+	}
+	.act{
+		margin-top: 10px;
+	}
+}
+@media screen and (max-width: 575px){
+	.menu {
+		margin: 10px auto;
+        flex-direction: column;
+		text-align: center;
+    }
+    
+	.phone{
+		font-size: 20px;
+		margin: 10px auto;
+	}
+	h1 {
+		margin-top: 50px;
+		font-size: 30px;
+	}
+	.name{
+	    padding: 50px 0 30px 0;
+	}
+	.input{
+		margin-top: 10px;
+		padding: 5px 18px;
+		margin-right: 0px;
+		font-size: 10px;
+	}
+	.act{
+		margin-top: 10px;
+		padding: 5px 32px;
+		font-size: 10px;
+	}
+	/* .landing{
+		margin-top: 10px;
+	} */
+	 h2{
+        font-size: 20px;
+	}
+	.work{
+		margin: 10px auto;
+        flex-direction: column;
+		text-align: center;
+	}
+	.work-item{
+		margin-top: 20px;
+	}
+	.title{
+		margin-top: 20px;
+	}
+	.title__text{
+		display: none;
+	}
+	.work__paragraph{
+	font-size: 10px;
+	margin-top: 5px;
+	}
+	.title__little{
+		font-size: 12px;
+		margin-top: 10px;
+	}
+	/* .picture{
+		margin: 10px auto;
+        flex-direction: column;
+		text-align: center;
+	} */
+	.picture-item{
+		margin-top: 20px;
+	}
+	.animation__little{
+		font-size: 12px;
+		margin-top: 10px;
+	}
+	.animation__text{
+		display: none;
+	}
+	ul{
+		margin: 10px auto;
+        flex-direction: column;
+		text-align: center;
+	}
+	li{
+		margin-top: 20px;
+	}
+	.second{
+		margin-top: 10px;
+	}
+	footer{
+		margin-top: 0px;
+	}
+}
